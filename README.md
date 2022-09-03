@@ -14,7 +14,7 @@
 
 ***
 > scan  QR Code ✏
-<div align="left"><a href="https://replit.com/@RavinduManoj/Queen-Sew-QR-Code"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
+<div align="left"><a href="https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1"><img src="https://i.ibb.co/5WRBdGh/ab1985860df7.jpg" width="150" ></a></div>
 
 ---
 > Deploy Your Bot On Heroku ✏
